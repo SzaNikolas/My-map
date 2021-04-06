@@ -231,7 +231,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/training.zenika.com\/fr-fr\/next-sessions?place=Remote"
+                 "value":"https:\/\/training.zenika.com\/fr-fr\/"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
