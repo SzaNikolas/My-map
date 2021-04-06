@@ -101,7 +101,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Press 'SPACE' to visit ete.com"
+                 "value":"Press 'SPACE' to visit ere.com"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,7 +157,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Press 'SPACE' to know some books books about recruitment"
+                 "value":"Press 'SPACE' to see some books about recruitment"
                 }],
          "type":"tilelayer",
          "visible":true,
