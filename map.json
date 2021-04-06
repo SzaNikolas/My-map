@@ -94,6 +94,11 @@
                  "value":"https:\/\/www.ere.net"
                 }, 
                 {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Press 'SPACE' to visit ete.com"
@@ -115,6 +120,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/recruitingdaily.com"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }, 
                 {
                  "name":"openWebsiteTriggerMessage",
@@ -140,6 +150,11 @@
                  "value":"https:\/\/lecoledurecrutement.fr\/20-livres-qui-ont-alimente-mes-recherches-sur-le-recrutement-en-2020\/"
                 }, 
                 {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Press 'SPACE' to know some books books about recruitment"
@@ -163,6 +178,11 @@
                  "value":"https:\/\/jobs.zenika.com\/offers"
                 }, 
                 {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"Press 'SPACE' to see our open positions"
@@ -184,6 +204,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/lecoledurecrutement.fr\/liste-complete-outils-de-sourcing-recrutement-rh\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }, 
                 {
                  "name":"openWebsiteTriggerMessage",
