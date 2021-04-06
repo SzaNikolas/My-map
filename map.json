@@ -237,6 +237,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press 'SPACE' to see our traning sessions"
                 }],
          "type":"tilelayer",
          "visible":true,
