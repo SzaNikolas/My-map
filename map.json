@@ -73,6 +73,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press 'Space' to have some advices about sourcing"
                 }],
          "type":"tilelayer",
          "visible":true,
