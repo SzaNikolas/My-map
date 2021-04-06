@@ -1,1 +1,1 @@
-WA.openTab('https://github.com/Sjamilla/awesome-recruitment');
+WA.sendChatMessage('Hello world', 'Mr Robot');
