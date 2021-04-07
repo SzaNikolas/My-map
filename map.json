@@ -241,7 +241,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Press 'SPACE' our Zlife"
+                 "value":"Press 'SPACE' to know our Zlife"
                 }],
          "type":"tilelayer",
          "visible":true,
